@@ -1,4 +1,9 @@
+// For olderv versions, the values are in CFBase itself
+// To obtain kCFCoreFoundationVersionNumber for a version, you can look in CoreFoundation framework
+
+
 #import <CoreFoundation/CFBase.h>
+
 #ifndef kCFCoreFoundationVersionNumber_iOS_2_0
 #define kCFCoreFoundationVersionNumber_iOS_2_0 478.23
 #endif
