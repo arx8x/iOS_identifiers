@@ -149,3 +149,15 @@
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_0
 #define kCFCoreFoundationVersionNumber_iOS_11_0 1443.0
 #endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_11_1
+#define kCFCoreFoundationVersionNumber_iOS_11_1 1445.32
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_11_1_1
+#define kCFCoreFoundationVersionNumber_iOS_11_1_1 1445.32
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_11_1_2
+#define kCFCoreFoundationVersionNumber_iOS_11_1_2 1445.32
+#endif
