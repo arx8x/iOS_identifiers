@@ -1,4 +1,4 @@
-// For olderv versions, the values are in CFBase itself
+// For older versions, the values are in CFBase itself
 // To obtain kCFCoreFoundationVersionNumber for a version, you can look in CoreFoundation framework
 
 
@@ -110,7 +110,7 @@
 
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_0
-#define kCFCoreFoundationVersionNumber_iOS_9_0 1240.10
+#define kCFCoreFoundationVersionNumber_iOS_9_0 1240.100000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_0_1
@@ -122,22 +122,19 @@
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_1
-#define kCFCoreFoundationVersionNumber_iOS_9_1 1241.11
+#define kCFCoreFoundationVersionNumber_iOS_9_1 1241.110000
 #endif
-
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_2
-#define kCFCoreFoundationVersionNumber_iOS_9_2 1242.13
+#define kCFCoreFoundationVersionNumber_iOS_9_2 1242.130000
 #endif
-
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_2_1
 #define kCFCoreFoundationVersionNumber_iOS_9_2_1 1242.130000
 #endif
 
-
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_3
-#define kCFCoreFoundationVersionNumber_iOS_9_3 1280.38
+#define kCFCoreFoundationVersionNumber_iOS_9_3 1280.380000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_9_3_1
@@ -156,16 +153,6 @@
 #define kCFCoreFoundationVersionNumber_iOS_9_3_4 1290.110000
 #endif
 
-
-#ifndef kCFCoreFoundationVersionNumber_iOS_10_0
-#define kCFCoreFoundationVersionNumber_iOS_10_0 1348.00
-#endif
-
-
-#ifndef kCFCoreFoundationVersionNumber_iOS_10_1
-#define kCFCoreFoundationVersionNumber_iOS_10_1 1348.00
-#endif
-
 #ifndef kCFCoreFoundationVersionNumber_iOS_10_0_1
 #define kCFCoreFoundationVersionNumber_iOS_10_0_1 1348.000000
 #endif
@@ -178,9 +165,8 @@
 #define kCFCoreFoundationVersionNumber_iOS_10_1_1 1348.000000
 #endif
 
-
 #ifndef kCFCoreFoundationVersionNumber_iOS_10_2
-#define kCFCoreFoundationVersionNumber_iOS_10_2 1348.22
+#define kCFCoreFoundationVersionNumber_iOS_10_2 1348.220000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_10_2_1
@@ -200,11 +186,11 @@
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_10_3_3
-#define kCFCoreFoundationVersionNumber_iOS_10_3_3 1349.7
+#define kCFCoreFoundationVersionNumber_iOS_10_3_3 1349.700000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_0
-#define kCFCoreFoundationVersionNumber_iOS_11_0 1443.0
+#define kCFCoreFoundationVersionNumber_iOS_11_0 1443.000000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_0_1
@@ -220,15 +206,15 @@
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_1
-#define kCFCoreFoundationVersionNumber_iOS_11_1 1445.32
+#define kCFCoreFoundationVersionNumber_iOS_11_1 1445.320000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_1_1
-#define kCFCoreFoundationVersionNumber_iOS_11_1_1 1445.32
+#define kCFCoreFoundationVersionNumber_iOS_11_1_1 1445.320000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_1_2
-#define kCFCoreFoundationVersionNumber_iOS_11_1_2 1445.32
+#define kCFCoreFoundationVersionNumber_iOS_11_1_2 1445.320000
 #endif
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_11_2
@@ -285,5 +271,53 @@
 
 #ifndef kCFCoreFoundationVersionNumber_iOS_12_1_2
 #define kCFCoreFoundationVersionNumber_iOS_12_1_2 1561.000000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_1_3
+#define kCFCoreFoundationVersionNumber_iOS_12_1_3 1561.000000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_1_4
+#define kCFCoreFoundationVersionNumber_iOS_12_1_4 1562.000000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_2
+#define kCFCoreFoundationVersionNumber_iOS_12_2 1570.150000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_4
+#define kCFCoreFoundationVersionNumber_iOS_12_4 1575.170000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_4_1
+#define kCFCoreFoundationVersionNumber_iOS_12_4_1 1575.190000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_4_3
+#define kCFCoreFoundationVersionNumber_iOS_12_4_3 1575.230000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_12_4_4
+#define kCFCoreFoundationVersionNumber_iOS_12_4_4 1575.230000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_13_1_2
+#define kCFCoreFoundationVersionNumber_iOS_13_1_2 1671.101000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_13_1_3
+#define kCFCoreFoundationVersionNumber_iOS_13_1_3 1671.101000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_13_2
+#define kCFCoreFoundationVersionNumber_iOS_13_2 1673.126000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_13_2_2
+#define kCFCoreFoundationVersionNumber_iOS_13_2_2 1673.126000
+#endif
+
+#ifndef kCFCoreFoundationVersionNumber_iOS_13_2_3
+#define kCFCoreFoundationVersionNumber_iOS_13_2_3 1673.126000
 #endif
 
