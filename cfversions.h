@@ -321,3 +321,7 @@
 #define kCFCoreFoundationVersionNumber_iOS_13_2_3 1673.126000
 #endif
 
+#ifndef kCFCoreFoundationVersionNumber_iOS_13_3
+#define kCFCoreFoundationVersionNumber_iOS_13_3 1674.102000
+#endif
+
